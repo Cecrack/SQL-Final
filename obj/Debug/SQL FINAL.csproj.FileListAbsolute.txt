@@ -1,0 +1,22 @@
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\bin\Debug\SQL FINAL.exe.config
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\bin\Debug\SQL FINAL.exe
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\bin\Debug\SQL FINAL.pdb
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL FINAL.csproj.AssemblyReference.cache
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.bodegas.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Clientes.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.compraDetalles.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Compras.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Form1.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Form2.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Inventario.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Productos.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Properties.Resources.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Proveedores.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.Tipos_de_pago.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.ventas_detalles.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL_FINAL.ventas.resources
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL FINAL.csproj.GenerateResource.cache
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL FINAL.csproj.CoreCompileInputs.cache
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL FINAL.exe
+C:\Users\cecra\source\repos\SQL FINAL\SQL FINAL\obj\Debug\SQL FINAL.pdb
